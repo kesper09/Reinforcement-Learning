@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/6ecc204b-148c-4372-9f39-4e3ad1a0ce84
 <p>You would be prompted to fill in the inputs as seen above</p><br><br>
 <p> You could test the trained model in the mod_test.py and save the result>
 <br><br>
-<h1>Below is a video that has been trained using A2C</h1>
+<h1>Below is a video of an inference from a model that has been trained using A2C</h1>
 
 https://github.com/user-attachments/assets/c7948b95-658f-4fca-9055-a93ae2d8b61e
 
