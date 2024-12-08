@@ -1,4 +1,4 @@
-<h1><b> Working and understanding of the initial code </b></h1>
+<h1><b> Working and understanding of Stable Baselines 3</b></h1>
 <br> <br> 
 <label for="Explain>This is the basic working of the code so far</label>
 <list id = "Explain">
