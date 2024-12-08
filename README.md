@@ -8,7 +8,9 @@
 <br>
 <h3>The following is a demo from a test video</h3>
 
+
 https://github.com/user-attachments/assets/6ecc204b-148c-4372-9f39-4e3ad1a0ce84
+
 
 <br><br>
 
@@ -22,7 +24,9 @@ https://github.com/user-attachments/assets/6ecc204b-148c-4372-9f39-4e3ad1a0ce84
 <br><br>
 <h1>Below is a video of an inference from a model that has been trained using A2C</h1>
 
+
 https://github.com/user-attachments/assets/c7948b95-658f-4fca-9055-a93ae2d8b61e
+
 
 <label for="Updates">Expected Updates in the Project</label>
 <list id = "Updates">
